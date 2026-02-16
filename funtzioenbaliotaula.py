@@ -16,4 +16,4 @@ for x in puntuak:
         y=eval(funtzioa)
         print(f"puntua:({x},{y})")
     except:
-        print("Errore matematiko bat izan da.")
+        print("X",x,"denean, errore matematiko bat dago.")
